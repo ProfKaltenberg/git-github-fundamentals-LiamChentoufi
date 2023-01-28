@@ -116,3 +116,5 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 I created a Profile README at https://github.com/LiamChentoufi!
 
 I created my first repository at https://github.com/LiamChentoufi/First-Repository, I am currently having trouble pushing changes to it with local files but I will continue to test it out.
+
+In regard to GitHub Classroom's last question in the Next Steps portion, I don't think there is anything they should change with this walkthrough. I find it very detailed and clear, I enjoyed the addition of links to further resources if we decide to spend more time on a particular section.
