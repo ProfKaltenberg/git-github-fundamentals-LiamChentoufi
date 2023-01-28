@@ -110,7 +110,8 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 
 ## Liam's Next Steps, My Markdown
 * I enjoyed this classroom Readme, I've forked it to save it as another resource moving forward. There seem to be many options to copy or save a main repository, I'll need to practice to get used to each of them. This time around I used the GitHub UI to complete my requests but I hope to practice more with the Terminal commands. They feel much quicker and there is something satisfying about using Terminal to do the work. I look forward to our next lesson!
-![Python Gif](<iframe src="https://giphy.com/embed/KAq5w47R9rmTuvWOWa" width="480" height="476" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/devrock-python-django-edr-KAq5w47R9rmTuvWOWa">via GIPHY</a></p>)
+
+![Python Gif](https://media2.giphy.com/media/KAq5w47R9rmTuvWOWa/200.webp?cid=ecf05e47g9wsk8k8wxng8636r1lrv2a37h2w87u7gdkm97vm&rid=200.webp&ct=g)
 
 
 
