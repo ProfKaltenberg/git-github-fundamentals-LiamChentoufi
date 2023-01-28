@@ -105,3 +105,10 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * [GitHub's Learning Lab](https://lab.github.com/)
 * [Education community forum](https://education.github.community/)
 * [GitHub community forum](https://github.community/)
+
+## Liam's Next Steps, My Markdown
+* I enjoyed this classroom Readme, I've forked it to save it as another resource moving forward. There seem to be many options to copy or save a main repository, I'll need to practice to get used to each of them. This time around I used the GitHub UI to complete my requests but I hope to practice more with the Terminal commands. They feel much quicker and there is something satisfying about using Terminal to do the work. I look forward to our next lesson!
+![Python Gif](https://giphy.com/gifs/devrock-python-django-edr-KAq5w47R9rmTuvWOWa)
+
+
+
